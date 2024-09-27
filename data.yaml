@@ -1,0 +1,7 @@
+names:
+- ms doni
+- virat kohli
+nc: 2
+path: C:\Users\maqwi\Desktop\major_project[1]\major_project\dataset
+train: train\images\\
+val: val\images\\
